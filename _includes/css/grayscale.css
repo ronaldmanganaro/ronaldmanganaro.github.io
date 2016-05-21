@@ -35,7 +35,9 @@ p {
     font-size: 18px;
     line-height: 1.5;
 }
-
+div.divider {
+  width: 5px;
+}
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
