@@ -1,8 +1,8 @@
 # Site settings
-title: Unhined Aspirations
-email: your-email@domain.com
-url: https://example.github.io
-description: "Software developed by a man unencumbered by the difficult path ahead and fueld by unhinged aspiorations!"
+title: Unhinged Aspirations
+email: ronaldmanganaro@gmail.com
+url: https://ronaldmanganaro.github.io
+description: "Software developed by a man unencumbered by the difficult path ahead and fueled by unhinged aspirations!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,10 +14,8 @@ footer: UnhingedAspirations.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
+    url: https://www.facebook.com/ronald.manganaro.1
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -28,3 +26,4 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+auto: true
