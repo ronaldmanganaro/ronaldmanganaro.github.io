@@ -393,9 +393,7 @@ footer p {
     background: rgba(255,255,255,.2);
 }
 
-ul.leftalign {
-  list-style: circle inside none; 
-}
+
 
 img::selection {
     background: 0 0;
