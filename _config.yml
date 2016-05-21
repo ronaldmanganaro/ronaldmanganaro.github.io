@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Unhinged Aspirations
+email: ronaldmanganaro@gmail.com
+url: https://ronaldmanganaro.github.io
+description: "Software developed by a man unencumbered by the difficult path ahead and fueled by unhinged aspirations!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,12 +10,10 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: UnhingedAspirations.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: facebook
     url:
   - title: stack-overflow
@@ -28,3 +26,4 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+auto: true
