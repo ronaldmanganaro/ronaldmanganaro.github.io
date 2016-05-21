@@ -214,8 +214,8 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 .divider {
-  width:5px;
-   height:auto;
+  width:10px;
+   height:1px;
    display:inline-block;
 }
 @-webkit-keyframes pulse {
