@@ -14,6 +14,8 @@ footer: UnhingedAspirations.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/ronald-manganaro-58218378
   - title: facebook
     url: https://www.facebook.com/ronald.manganaro.1
   - title: github
