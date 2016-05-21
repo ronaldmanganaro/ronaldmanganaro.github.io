@@ -1,5 +1,5 @@
 # Site settings
-title: Unhined Aspirations
+title: Unhinged Aspirations
 email: your-email@domain.com
 url: https://example.github.io
 description: "Software developed by a man unencumbered by the difficult path ahead and fueld by unhinged aspiorations!"
@@ -28,3 +28,4 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+auto: true
