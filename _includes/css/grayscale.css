@@ -215,8 +215,7 @@ a:focus {
 }
 .divider {
   width:10px;
-   height:1px;
-   display:inline-block;
+   height:10px;
 }
 @-webkit-keyframes pulse {
     0 {
